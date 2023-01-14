@@ -1,0 +1,18 @@
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.numeros {
+    display: flex;
+    justify-content:center;
+    margin:20px;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
